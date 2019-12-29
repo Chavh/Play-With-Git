@@ -1,2 +1,3 @@
 # Play-With-Git
-learning git/github
+This repository is basically for self testing and learning git/github.
+
