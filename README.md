@@ -1,2 +1,2 @@
 # Play-With-Git
-learning git/github is a prerequisitive for a software developer
+This repository is basically for self testing and learning git/github.
